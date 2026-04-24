@@ -34,7 +34,7 @@ graph TD
     AP --> Laptop3
     AP --> Tablet
     AP --> Phones
-
+```
 ### Devices Included:
 
 * 2 Desktop PCs (Front Desk / POS System)
