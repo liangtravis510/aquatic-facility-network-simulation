@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project simulates a small-business IT network based on my aquatic facility where I work. The goal was to model how common workplace devices (front desk systems, staff laptops, printers, and wireless clients) connect within a network and to practice troubleshooting typical IT support issues.
+This project simulates a small-business IT network based on my aquatic facility where I worked. The goal was to model how common workplace devices (front desk systems, staff laptops, printers, and wireless clients) connect within a network and to practice troubleshooting typical IT support issues.
 
 The network was built in Cisco Packet Tracer and includes both wired and wireless infrastructure, along with a firewall that represents security boundaries between internal systems and the internet.
 
