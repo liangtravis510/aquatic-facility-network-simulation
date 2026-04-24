@@ -22,8 +22,8 @@ The network was built in Cisco Packet Tracer and includes both wired and wireles
 The network follows this structure:
 
 Cloud (Internet) → Firewall → Switch → Devices
-
-↘ Wireless Access Point → Wireless Devices
+                                  \
+                                  Wireless Access Point → Wireless Devices
 
 ### Devices Included:
 
