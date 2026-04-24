@@ -21,9 +21,19 @@ The network was built in Cisco Packet Tracer and includes both wired and wireles
 
 The network follows this structure:
 
-Cloud (Internet) → Firewall → Switch → Devices
-                                  "\"
-                                  Wireless Access Point → Wireless Devices
+```mermaid
+graph TD
+    Internet --> Firewall
+    Firewall --> Switch
+    Switch --> PC1[FrontDesk PC]
+    Switch --> PC2[POS PC]
+    Switch --> Printer
+    Switch --> AP[WRT300N Access Point]
+    AP --> Laptop1
+    AP --> Laptop2
+    AP --> Laptop3
+    AP --> Tablet
+    AP --> Phones
 
 ### Devices Included:
 
