@@ -82,3 +82,14 @@ This allows internal devices to communicate with external systems while maintain
 
 ---
 
+### Troubleshooting Issues
+- Fixed incorrect default gateway configurations on client devices'
+- Resolved VLAN misconfiguration on the ASA interface
+- Diagnosed wireless connectivity issues caused by incorrect port usage
+- Ensure IP phones have power and proper network connectivity.
+
+### Checks
+- Checked all wired devices can ping the gateway (192.168.1.1)
+- Wireless devices successfully connected and receive IP via DHCP
+- All devices communicate within the network.
+
