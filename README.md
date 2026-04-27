@@ -32,7 +32,6 @@ graph TD
     AP --> Laptop1
     AP --> Laptop2
     AP --> Laptop3
-    AP --> Tablet
     AP --> Phones
 ```
 ### Devices Included:
